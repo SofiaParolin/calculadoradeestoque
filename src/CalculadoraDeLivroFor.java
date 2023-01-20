@@ -13,7 +13,7 @@ public class CalculadoraDeLivroFor {
             }else if (soma >= 2000) {
                 System.out.println("Estoque está mais alto que o normal. Verifique!");
             }else{
-                System.out.println("Estoque com média normal!");
+                System.out.println("mensagem aleatoria");
             }
         }
 
