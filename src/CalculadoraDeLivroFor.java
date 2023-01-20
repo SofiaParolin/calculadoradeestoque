@@ -1,4 +1,4 @@
-public class git CalculadoraDeLivroFor {
+public class CalculadoraDeLivroFor {
     public static void main(String[] args) {
 
         double soma = 0;
