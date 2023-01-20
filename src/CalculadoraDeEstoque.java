@@ -14,7 +14,7 @@ public class CalculadoraDeEstoque {
         } else if (soma >= 2000){
             System.out.println("Seu estoque está maior que o normal. Verifique!");
         } else {
-            System.out.println("Na média");
+            System.out.println("Estoque com média normal!");
         }
 
     }
